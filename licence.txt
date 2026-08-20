@@ -1,0 +1,116 @@
+# Privacy Policy – Agriculture WhatsApp Support
+
+**Last Updated:** August 20, 2026
+
+## 1. About This Project
+
+Agriculture WhatsApp Support ("we," "our," or "the Project") is a prototype developed for educational, research, and hackathon purposes.
+
+The Project provides agriculture-related support through WhatsApp, such as general information, guidance, and assistance related to farming and agricultural practices.
+
+This Project is **not a commercial service** and is not currently operated for profit.
+
+## 2. Information We Collect
+
+When you interact with our agriculture support service through WhatsApp, we may receive information that you voluntarily provide, including:
+
+* Your WhatsApp phone number and WhatsApp profile information made available to us.
+* Messages that you send to our WhatsApp account.
+* Agricultural questions, descriptions, and other information included in your messages.
+* Images, documents, audio, or other files that you voluntarily send to us.
+* Location information if you choose to share your location through WhatsApp.
+* Other information that you voluntarily provide while using the service.
+
+We do not intentionally request sensitive personal information unless it is necessary for the specific functionality being demonstrated.
+
+## 3. How We Use Your Information
+
+Information received through WhatsApp may be used to:
+
+* Respond to your agricultural questions and requests.
+* Provide agriculture-related information and support.
+* Test and demonstrate the functionality of this hackathon prototype.
+* Improve the reliability and usefulness of the prototype.
+* Identify and resolve technical problems.
+* Demonstrate the project to judges, mentors, or authorized members of the hackathon/project team where reasonably necessary.
+
+We do not sell your personal information.
+
+## 4. WhatsApp and Meta
+
+Our service uses WhatsApp and may use Meta's WhatsApp Business Platform or related Meta services to receive and respond to messages.
+
+Your interaction with WhatsApp is also subject to WhatsApp's own terms and privacy practices. Information may be processed by WhatsApp/Meta as part of providing their services.
+
+We only request and process the information reasonably necessary for this prototype.
+
+## 5. Sharing of Information
+
+We do not sell, rent, or trade your personal information.
+
+Information may be accessible to:
+
+* Members of the hackathon or development team who need it to operate or test the prototype.
+* Service providers or technology platforms required to operate the WhatsApp integration.
+* Meta/WhatsApp as necessary for the WhatsApp service to function.
+* Authorities where disclosure is required by applicable law.
+
+We will not intentionally share your conversations publicly or use them for unrelated commercial purposes.
+
+## 6. Data Retention
+
+Because this is a hackathon prototype, we intend to retain personal information only for as long as reasonably necessary to operate, test, evaluate, or demonstrate the project.
+
+When the project is discontinued, we will take reasonable steps to delete or anonymize personal information that is no longer required.
+
+If you want your information deleted earlier, you may contact us using the details provided below.
+
+## 7. Data Security
+
+We take reasonable technical and organizational measures to protect information handled by the Project.
+
+However, no internet-based service can guarantee absolute security. You should avoid sending highly sensitive information, such as passwords, financial information, government identification numbers, or other confidential information through this service.
+
+## 8. Agricultural Information Disclaimer
+
+The information provided by this prototype is intended for general educational and informational purposes.
+
+Agricultural recommendations generated or provided by the service may not be appropriate for every farm, crop, soil type, location, climate, or situation. Users should independently verify important agricultural decisions with qualified agricultural professionals, local agricultural authorities, or other reliable sources.
+
+The Project does not guarantee crop yield, disease diagnosis, pest-control results, or financial outcomes.
+
+## 9. Children's Privacy
+
+This prototype is not specifically directed toward children.
+
+We do not knowingly collect personal information from children for purposes unrelated to providing the service. If you believe that a child has provided personal information to us, please contact us so that we can review and delete it where appropriate.
+
+## 10. Your Choices and Rights
+
+Depending on applicable law, you may have rights regarding your personal information, including the ability to:
+
+* Request information about the personal data we hold about you.
+* Request correction of inaccurate information.
+* Request deletion of your information.
+* Ask us to stop using your information for purposes that are not necessary to operate the prototype.
+
+To make a request, contact us using the contact information below.
+
+## 11. Changes to This Privacy Policy
+
+Because this project may change during or after the hackathon, we may update this Privacy Policy from time to time.
+
+Any updated version will be published at the same Privacy Policy URL and will include a revised "Last Updated" date.
+
+## 12. Contact Us
+
+If you have questions about this Privacy Policy, your information, or the Agriculture WhatsApp Support prototype, please contact:
+
+**Project Name:** [Your Agriculture Project Name]
+**Developer/Team:** [Your Name or Team Name]
+**Email:** [Your Email Address]
+**Country:** [Your Country]
+
+---
+
+**Important:** This Privacy Policy is written for a hackathon/prototype project and is intended as a practical starting point. It is not legal advice. Before publishing it for real users, review it against the privacy laws applicable to your country and the exact Meta/WhatsApp products and data your application uses.
